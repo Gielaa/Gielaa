@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Giela
-- 👀 I’m interested in UI/UX and graphic design
+- 👀 I’m interested in QA testing
 - 🌱 I’m currently learning my first steps on Web Development
 - 📫 You can reach me Azargatha1981@hotmail.com 
 - 💖 Thank you for reading!
